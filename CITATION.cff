@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use or discuss this software, please cite the associated research paper."
+title: "Multimodal Dynamic Augmentation"
+type: software
+version: "0.2.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Li
+      given-names: Haining
+    - family-names: Huang
+      given-names: Shan
+    - family-names: Zhang
+      given-names: Changqing
+  title: "Multimodal Data Augmentation for Dynamic Fusion"
+  journal: "2025 International Joint Conference on Neural Networks (IJCNN)"
+  year: 2025
+  doi: "10.1109/IJCNN64981.2025.11228982"
+  url: "https://doi.org/10.1109/IJCNN64981.2025.11228982"
